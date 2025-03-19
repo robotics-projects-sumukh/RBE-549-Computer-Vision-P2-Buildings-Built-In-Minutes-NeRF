@@ -1,10 +1,8 @@
 ## Setup for NeRF
 
- **Pre-Requisite:** Make sure you have the `lego` and `ship` folder in `Group13_p2/Phase2/Data` directory .
-
 1. Go to Phase2 Directory
 ```bash
-cd Group13_p2/Phase2
+cd Phase2
 ```
 
 2. a) Steps to run training using **Lego Dataset** Approach:
